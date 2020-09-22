@@ -48,6 +48,14 @@ body {
 .second-half img {
     width: 110%;
 }
+.footer-h1 {
+    text-align: center;
+    font-size: x-large;
+}
+hr {
+    width: 8%;
+    background-color: #FF9C35;
+}
 
 
 
