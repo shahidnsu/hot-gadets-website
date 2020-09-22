@@ -1,0 +1,53 @@
+body {
+    font-family: 'Poppins',
+        sans-serif;
+
+}
+
+.hot-gadets-navbar {
+    margin-top: 25px;
+
+}
+
+.right-arrow svg {
+    padding-top: 5px;
+}
+.smartphone-section {
+    margin-top: 20px;
+}
+.smartphone-section h2 {
+    font-size: larger;
+    font-weight: bold;
+}
+.smartphone-section p {
+    color:#FF9C35;
+}
+.phone-cat-section img {
+    width: 200px;
+    margin-left:20% ;
+    margin-top: 5%;
+    
+
+}
+.phone-cat-section {
+    text-align: center;
+    margin-top: 30px;
+    
+}
+.first-half {
+    margin-top: 30px;
+
+    
+}
+.first-half-part1 img {
+    width : 90%;
+}
+.first-half-part2 img {
+    width:45%;
+}
+.second-half img {
+    width: 110%;
+}
+
+
+
